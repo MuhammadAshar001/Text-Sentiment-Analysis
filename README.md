@@ -48,7 +48,13 @@ The model shows **balanced and high performance** across both sentiment classes,
    cd sentiment-analysis
 2. Run the notebook:
 
-Open sentiment.ipynb in Jupyter Notebook or VS Code.
+- Open task2.ipynb in Jupyter Notebook or VS Code.
+- Execute the cells step-by-step to train and evaluate the model.
 
-Execute the cells step-by-step to train and evaluate the model.
+## Contributing
+Contributions are welcome! Please fork the repository and create a pull request with your suggested improvements.
+
+## License
+This project is open-source and available under the MIT License.
+
 
